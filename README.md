@@ -35,9 +35,7 @@ A simple and interactive currency converter web app that uses real-time exchange
 ├── country.js         # Loads currency options dynamically
 ```
 
-## 📷 Preview
 
-![Currency Converter Screenshot](Screenshot 2025-06-24 122600.png) <!-- Optional: Add a screenshot here -->
 
 
 
