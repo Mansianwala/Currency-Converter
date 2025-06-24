@@ -37,7 +37,7 @@ A simple and interactive currency converter web app that uses real-time exchange
 
 ## 📷 Preview
 
-![Currency Converter Screenshot](screenshot.png) <!-- Optional: Add a screenshot here -->
+![Currency Converter Screenshot](Screenshot 2025-06-24 122600.png) <!-- Optional: Add a screenshot here -->
 
 
 
